@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+I create extreme metal, and drink black coffee.
